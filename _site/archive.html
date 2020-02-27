@@ -39,7 +39,15 @@
     integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
     crossorigin="anonymous"></script>
 
-    <!-- This goes before </head> closing tag, Google Analytics can be placed here --> 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156829821-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-156829821-1');
+</script>
+
 
 </head>
 
@@ -47,14 +55,15 @@
 
     <!-- Navbar -->
     <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-main fixed-top">
-    <div class="container">
+    <div class="justify-content-between container">
         <a class="navbar-brand" href="/hello//index.html"><strong>rence.</strong></a>
-        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="navbar-collapse collapse" id="navbarColor02" style="">
-            <ul class="navbar-nav mr-auto d-flex align-items-center">
-               <!--  Replace menu links here -->
+        <div>
+          <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="navbar-collapse collapse" id="navbarColor02" style="">
+              <ul class="navbar-nav mr-auto d-flex align-items-center">
+                 <!--  Replace menu links here -->
 
 <li class="glowlink nav-item">
 <a class="nav-link" href="/hello//archive.html">Archive</a>
@@ -72,7 +81,8 @@
 <a target="_blank" class="nav-link" href="https://www.rencewang.com/">About</a>
 </li>
 
-            </ul>
+              </ul>
+          </div>
         </div>
     </div>
     </nav>
@@ -143,7 +153,7 @@
 
 	<div class="loop-card-image col-md-3 pr-0 text-right">
 		<a href="/hello//1989/">
-		<img class="w-100" src="/hello///assets/images/1989.jpg" alt="1989&#58; It's a Harry Styles Thing">
+		<img class="w-100" src="https://raw.githubusercontent.com/law-wang/blog/master/assets/images/1989.jpg" alt="1989&#58; It's a Harry Styles Thing">
 		</a>
 	</div>
 

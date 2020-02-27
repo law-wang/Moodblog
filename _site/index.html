@@ -39,7 +39,15 @@
     integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
     crossorigin="anonymous"></script>
 
-    <!-- This goes before </head> closing tag, Google Analytics can be placed here --> 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156829821-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-156829821-1');
+</script>
+
 
 </head>
 
@@ -47,14 +55,15 @@
 
     <!-- Navbar -->
     <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-main fixed-top">
-    <div class="container">
+    <div class="justify-content-between container">
         <a class="navbar-brand" href="/hello//index.html"><strong>rence.</strong></a>
-        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="navbar-collapse collapse" id="navbarColor02" style="">
-            <ul class="navbar-nav mr-auto d-flex align-items-center">
-               <!--  Replace menu links here -->
+        <div>
+          <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="navbar-collapse collapse" id="navbarColor02" style="">
+              <ul class="navbar-nav mr-auto d-flex align-items-center">
+                 <!--  Replace menu links here -->
 
 <li class="glowlink nav-item">
 <a class="nav-link" href="/hello//archive.html">Archive</a>
@@ -72,7 +81,8 @@
 <a target="_blank" class="nav-link" href="https://www.rencewang.com/">About</a>
 </li>
 
-            </ul>
+              </ul>
+          </div>
         </div>
     </div>
     </nav>
@@ -82,19 +92,19 @@
         <div class="container">
 
 
-    
+
     <!-- Sticky = tags: [sticky] -->
-     
     
-     
     
-     
     
-     
     
-     
     
-     
+    
+    
+    
+    
+    
+    
     
     <div class="bg-feature jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem position-relative">
         <div class="pl-4 pr-0 h-100 tofront">
@@ -106,29 +116,29 @@
                     </p>
                     <a href="/hello//melodrama/" class="sticky-button">Read More</a>
                 </div>
-                <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/hello///assets/images/MEL.jpg);">	
+                <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/hello///assets/images/MEL.jpg);">
                 </div>
             </div>
         </div>
-    </div> 
+    </div>
     
-     
     
-     
     
-     
+    
+    
+    
     
     
 
     <!-- First Five Posts -->
     <div class="row mt-3">
-        
+
         <!-- latest post -->
         
         <div class="col-md-6">
-            <div class="card border-0 mb-4 box-shadow">   
+            <div class="card border-0 mb-4 box-shadow">
                 <a href="/hello//lover/">
-                    <div class="topfirstimage" style="background-image: url( /hello///assets/images/lover1.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
+                    <div class="topfirstimage" style="background-image: url( /hello///assets/images/lover1.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>
                 </a>
                 <div class="bg-main card-body px-0 pb-0 d-flex flex-column align-items-start">
                     <h2 class="loop-card-title">
@@ -143,7 +153,7 @@
                                 
                                 <a class="text-capitalize smoothscroll" href="/hello//categories.html#music">Music</a><span class="sep">, </span>
                                 
-                                </span>                   
+                                </span>
                         </small>
                         <small class="text-muted font-weight-bold">
                             Oct 20, 2019
@@ -152,17 +162,17 @@
                 </div>
             </div>
         </div>
-        
+
         <!-- more posts -->
         <div class="col-md-6">
-            <!-- second latest post --><div class="mb-3 d-flex align-items-center">                
+            <!-- second latest post --><div class="mb-3 d-flex align-items-center">
                     
                     <div class="col-md-4">
                     <a href="/hello//1989/">
-                    <img class="w-100" src="http://localhost:4000/hello/assets/images/1989.jpg" alt="1989&#58; It's a Harry Styles Thing">
+                    <img class="w-100" src="https://raw.githubusercontent.com/law-wang/blog/master/assets/images/1989.jpg" alt="1989&#58; It's a Harry Styles Thing">
                     </a>
                     </div>
-                                    
+                    
                     <div>
                         <h2 class="loop-card-title mb-2 h4 font-weight-bold">
                         <a class="text-dark" href="/hello//1989/">1989&#58; It's a Harry Styles Thing</a>
@@ -172,22 +182,22 @@
                             
                             <a class="text-capitalize smoothscroll" href="/hello//categories.html#music">Music</a><span class="sep">, </span>
                             
-                            </span>                   
+                            </span>
                         </small>
                         <small class="text-muted font-weight-bold">
                             Jun 30, 2019
                         </small>
                     </div>
             </div>
-            
-            <!-- third latest post --><div class="mb-3 d-flex align-items-center">                
+
+            <!-- third latest post --><div class="mb-3 d-flex align-items-center">
                     
                     <div class="col-md-4">
                     <a href="/hello//russian-doll/">
                     <img class="w-100" src="/hello///assets/images/RD1.jpg" alt="Russian Doll&#58; It's Hard to Stay Alive">
                     </a>
                     </div>
-                                    
+                    
                     <div>
                         <h2 class="loop-card-title mb-2 h4 font-weight-bold">
                         <a class="text-dark" href="/hello//russian-doll/">Russian Doll&#58; It's Hard to Stay Alive</a>
@@ -197,22 +207,22 @@
                             
                             <a class="text-capitalize smoothscroll" href="/hello//categories.html#television">Television</a><span class="sep">, </span>
                             
-                            </span>                   
+                            </span>
                         </small>
                         <small class="text-muted font-weight-bold">
                             Jun 24, 2019
                         </small>
                     </div>
             </div>
-            
-            <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">                
+
+            <!-- fourth latest post --><div class="mb-3 d-flex align-items-center">
                     
                     <div class="col-md-4">
                     <a href="/hello//la-la-land/">
                     <img class="w-100" src="/hello//assets/images/LLL2.jpg" alt="La La Land&#58; A Not-So-Happily Ever After">
                     </a>
                     </div>
-                                    
+                    
                     <div>
                         <h2 class="loop-card-title mb-2 h4 font-weight-bold">
                         <a class="text-dark" href="/hello//la-la-land/">La La Land&#58; A Not-So-Happily Ever After</a>
@@ -222,7 +232,7 @@
                             
                             <a class="text-capitalize smoothscroll" href="/hello//categories.html#movie">Movie</a><span class="sep">, </span>
                             
-                            </span>                   
+                            </span>
                         </small>
                         <small class="text-muted font-weight-bold">
                             Nov 15, 2018
@@ -231,14 +241,14 @@
             </div>
 
             <!-- fifth latest post -->
-            <!--<div class="mb-3 d-flex align-items-center">                
+            <!--<div class="mb-3 d-flex align-items-center">
                 
                 <div class="col-md-4">
                 <a href="/hello//reputation/">
                 <img class="w-100" src="/hello///assets/images/REP1.jpg" alt="Reputation&#58; A Career-Ending Flop?">
                 </a>
                 </div>
-                                
+                
                 <div>
                     <h2 class="loop-card-title mb-2 h5 font-weight-bold">
                     <a class="text-dark" href="/hello//reputation/">Reputation&#58; A Career-Ending Flop?</a>
@@ -248,342 +258,102 @@
                         
                         <a class="text-capitalize smoothscroll" href="/hello//categories.html#music">Music</a><span class="sep">, </span>
                         
-                        </span>                   
+                        </span>
                     </small>
                     <small class="text-muted">
                         Sep 20, 2018
                     </small>
                 </div>
             </div> -->
-            
+
         </div>
-        
+
     </div>
 
  <!--endif page url is / -->
 
 <!-- Main Loop with 4 Offset -->
 <div class="row mt-3">
-    <div class="col-md-8 main-loop">
-        <h4 class="featured-title font-weight-bold spanborder"><span>All Stories</span></h4>
-    
+    <div class="col-md-6">
         
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="loop-card-title mb-1 h4 font-weight-bold">
-	<a href="/hello//lover/">Lover&#58; The Evolution of Taylor Swift</a>
-	</h2>
-	<p class="mb-1 excerpt">
-	   We all remember the vengeful spirit of Taylor Swift. From claiming that “there’s nothing I do better than revenge” to “bandaids don’t fix bullet holes,” a certain part of her discography was dedica...
-	</p>
-	<small class="catblock d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize smoothscroll" href="/hello//categories.html#music">Music</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted font-weight-bold">
-		Oct 20, 2019
-	</small>
-</div>
-
-	<div class="loop-card-image col-md-3 pr-0 text-right">
-		<a href="/hello//lover/">
-		<img class="w-100" src="/hello///assets/images/lover1.jpg" alt="Lover&#58; The Evolution of Taylor Swift">
-		</a>
+    <div class="mb-5 d-flex justify-content-between main-loop-card">
+	<div class="pr-3">
+		<h2 class="loop-card-title mb-1 h4 font-weight-bold">
+		<a href="/hello//la-la-land/">La La Land&#58; A Not-So-Happily Ever After</a>
+		</h2>
+		<p class="mb-1 excerpt">
+		   La La Land is charming like nothing else: the sentimental music, the fanciful images, the idealistic story— everything is  romantically mesmerizing. Chazelle’s previous work, Whiplash, was similarl...
+		</p>
+		<small class="catblock d-block text-muted">
+			In <span class="catlist">
+			
+			<a class="text-capitalize smoothscroll" href="/hello//categories.html#movie">Movie</a><span class="sep">, </span>
+			
+			</span>
+		</small>
+		<small class="text-muted font-weight-bold">
+			Nov 15, 2018
+		</small>
 	</div>
-
-</div>
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="loop-card-title mb-1 h4 font-weight-bold">
-	<a href="/hello//1989/">1989&#58; It's a Harry Styles Thing</a>
-	</h2>
-	<p class="mb-1 excerpt">
-	   1989 was the album that took 2014 like storm. It’s known as a lot of things: the transformational work that marked the emergence of a pop queen from a country princess; the singer-songwriter’s come...
-	</p>
-	<small class="catblock d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize smoothscroll" href="/hello//categories.html#music">Music</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted font-weight-bold">
-		Jun 30, 2019
-	</small>
 </div>
 
-	<div class="loop-card-image col-md-3 pr-0 text-right">
-		<a href="/hello//1989/">
-		<img class="w-100" src="/hello///assets/images/1989.jpg" alt="1989&#58; It's a Harry Styles Thing">
-		</a>
+
+    <div class="mb-5 d-flex justify-content-between main-loop-card">
+	<div class="pr-3">
+		<h2 class="loop-card-title mb-1 h4 font-weight-bold">
+		<a href="/hello//the-prestige/">The Prestige&#58; Twisted Obsessions</a>
+		</h2>
+		<p class="mb-1 excerpt">
+		   When people think of Christopher Nolan, the first movies that pop into mind are probably the likes of Inception or Interstellar or The Dark Knight, the high-grossing international sensations that c...
+		</p>
+		<small class="catblock d-block text-muted">
+			In <span class="catlist">
+			
+			<a class="text-capitalize smoothscroll" href="/hello//categories.html#movie">Movie</a><span class="sep">, </span>
+			
+			</span>
+		</small>
+		<small class="text-muted font-weight-bold">
+			Apr 04, 2018
+		</small>
 	</div>
-
-</div>
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="loop-card-title mb-1 h4 font-weight-bold">
-	<a href="/hello//russian-doll/">Russian Doll&#58; It's Hard to Stay Alive</a>
-	</h2>
-	<p class="mb-1 excerpt">
-	   You would think that after an entire school year of Nietzsche, Meursault, Godot, Kafka, Hemingway, and Like Water for Chocolate in International Baccalaureate English would be enough absurdist disc...
-	</p>
-	<small class="catblock d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize smoothscroll" href="/hello//categories.html#television">Television</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted font-weight-bold">
-		Jun 24, 2019
-	</small>
 </div>
 
-	<div class="loop-card-image col-md-3 pr-0 text-right">
-		<a href="/hello//russian-doll/">
-		<img class="w-100" src="/hello///assets/images/RD1.jpg" alt="Russian Doll&#58; It's Hard to Stay Alive">
-		</a>
+
+    <div class="mb-5 d-flex justify-content-between main-loop-card">
+	<div class="pr-3">
+		<h2 class="loop-card-title mb-1 h4 font-weight-bold">
+		<a href="/hello//hero/">Hero&#58; What Is a Hero?</a>
+		</h2>
+		<p class="mb-1 excerpt">
+		   Breaking into the Chinese film market in 2002, Hero became the box office legend of the year. Though it still remains one of the biggest domestic releases of all time, many Chinese film critics at ...
+		</p>
+		<small class="catblock d-block text-muted">
+			In <span class="catlist">
+			
+			<a class="text-capitalize smoothscroll" href="/hello//categories.html#movie">Movie</a><span class="sep">, </span>
+			
+			</span>
+		</small>
+		<small class="text-muted font-weight-bold">
+			Dec 18, 2017
+		</small>
 	</div>
-
-</div>
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="loop-card-title mb-1 h4 font-weight-bold">
-	<a href="/hello//la-la-land/">La La Land&#58; A Not-So-Happily Ever After</a>
-	</h2>
-	<p class="mb-1 excerpt">
-	   La La Land is charming like nothing else: the sentimental music, the fanciful images, the idealistic story— everything is  romantically mesmerizing. Chazelle’s previous work, Whiplash, was similarl...
-	</p>
-	<small class="catblock d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize smoothscroll" href="/hello//categories.html#movie">Movie</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted font-weight-bold">
-		Nov 15, 2018
-	</small>
 </div>
 
-	<div class="loop-card-image col-md-3 pr-0 text-right">
-		<a href="/hello//la-la-land/">
-		<img class="w-100" src="/hello//assets/images/LLL2.jpg" alt="La La Land&#58; A Not-So-Happily Ever After">
-		</a>
-	</div>
 
-</div>
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="loop-card-title mb-1 h4 font-weight-bold">
-	<a href="/hello//reputation/">Reputation&#58; A Career-Ending Flop?</a>
-	</h2>
-	<p class="mb-1 excerpt">
-	   Reputation was the biggest album of 2018. There’s absolutely no doubt in that. It is also the best selling album of 2017. There’s no doubt in that either. But ever since its release, the media and ...
-	</p>
-	<small class="catblock d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize smoothscroll" href="/hello//categories.html#music">Music</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted font-weight-bold">
-		Sep 20, 2018
-	</small>
-</div>
 
-	<div class="loop-card-image col-md-3 pr-0 text-right">
-		<a href="/hello//reputation/">
-		<img class="w-100" src="/hello///assets/images/REP1.jpg" alt="Reputation&#58; A Career-Ending Flop?">
-		</a>
-	</div>
-
-</div>
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="loop-card-title mb-1 h4 font-weight-bold">
-	<a href="/hello//melodrama/">Melodrama&#58; The Glamour and Trauma Became Us</a>
-	</h2>
-	<p class="mb-1 excerpt">
-	   If Pure Heroine was about teenage Lorde’s idea of maturity, her imagination of what the adult world must be like, then her sophomore album is precisely the opposite. Melodrama is cool— the toned qu...
-	</p>
-	<small class="catblock d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize smoothscroll" href="/hello//categories.html#music">Music</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted font-weight-bold">
-		Jun 05, 2018
-	</small>
-</div>
-
-	<div class="loop-card-image col-md-3 pr-0 text-right">
-		<a href="/hello//melodrama/">
-		<img class="w-100" src="/hello///assets/images/MEL.jpg" alt="Melodrama&#58; The Glamour and Trauma Became Us">
-		</a>
-	</div>
-
-</div>
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="loop-card-title mb-1 h4 font-weight-bold">
-	<a href="/hello//the-prestige/">The Prestige&#58; Twisted Obsessions</a>
-	</h2>
-	<p class="mb-1 excerpt">
-	   When people think of Christopher Nolan, the first movies that pop into mind are probably the likes of Inception or Interstellar or The Dark Knight, the high-grossing international sensations that c...
-	</p>
-	<small class="catblock d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize smoothscroll" href="/hello//categories.html#movie">Movie</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted font-weight-bold">
-		Apr 04, 2018
-	</small>
-</div>
-
-	<div class="loop-card-image col-md-3 pr-0 text-right">
-		<a href="/hello//the-prestige/">
-		<img class="w-100" src="/hello///assets/images/the_prestige.jpg" alt="The Prestige&#58; Twisted Obsessions">
-		</a>
-	</div>
-
-</div>
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="loop-card-title mb-1 h4 font-weight-bold">
-	<a href="/hello//hero/">Hero&#58; What Is a Hero?</a>
-	</h2>
-	<p class="mb-1 excerpt">
-	   Breaking into the Chinese film market in 2002, Hero became the box office legend of the year. Though it still remains one of the biggest domestic releases of all time, many Chinese film critics at ...
-	</p>
-	<small class="catblock d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize smoothscroll" href="/hello//categories.html#movie">Movie</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted font-weight-bold">
-		Dec 18, 2017
-	</small>
-</div>
-
-	<div class="loop-card-image col-md-3 pr-0 text-right">
-		<a href="/hello//hero/">
-		<img class="w-100" src="/hello///assets/images/Hero.jpg" alt="Hero&#58; What Is a Hero?">
-		</a>
-	</div>
-
-</div>
-        
-            <div class="mb-5 d-flex justify-content-between main-loop-card">
-<div class="pr-3">
-	<h2 class="loop-card-title mb-1 h4 font-weight-bold">
-	<a href="/hello//gatsby/">The Great Gatsby&#58; How He Lost Himself</a>
-	</h2>
-	<p class="mb-1 excerpt">
-	   Dreams are aspirations, yet less tangible. They are imaginations, yet more boundless. They are the instantaneous outburst of inner drive expressed in terms of outward hope. They represent all the h...
-	</p>
-	<small class="catblock d-block text-muted">
-		In <span class="catlist">
-		
-		<a class="text-capitalize smoothscroll" href="/hello//categories.html#literature">Literature</a><span class="sep">, </span>
-		
-		</span>
-	</small>
-	<small class="text-muted font-weight-bold">
-		Oct 21, 2017
-	</small>
-</div>
-
-	<div class="loop-card-image col-md-3 pr-0 text-right">
-		<a href="/hello//gatsby/">
-		<img class="w-100" src="/hello///assets/images/Gatsby.jpg" alt="The Great Gatsby&#58; How He Lost Himself">
-		</a>
-	</div>
-
-</div>
-        
-        
-        <div class="mt-5">
-         <!-- Pagination links -->
-                  
-        </div>
     </div>
-    
-    <div class="col-md-4">
-        <div class="sticky-top sticky-top-offset">
-    <h4 class="featured-title font-weight-bold spanborder"><span>Featured</span></h4>  
-    <ol class="list-featured">				
-                        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/hello//lover/" class="feature-heading">Lover&#58; The Evolution of Taylor Swift</a>
-                </h6>
-                <span class="catblock d-block">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize smoothscroll" href="/hello//categories.html#music">Music</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>                
-                        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/hello//russian-doll/" class="feature-heading">Russian Doll&#58; It's Hard to Stay Alive</a>
-                </h6>
-                <span class="catblock d-block">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize smoothscroll" href="/hello//categories.html#television">Television</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>                
-                        
-            <li class="mb-4">
-            <span>
-                <h6 class="font-weight-bold">
-                    <a href="/hello//melodrama/" class="feature-heading">Melodrama&#58; The Glamour and Trauma Became Us</a>
-                </h6>
-                <span class="catblock d-block">
-                    In <span class="catlist">
-                    
-                    <a class="text-capitalize smoothscroll" href="/hello//categories.html#music">Music</a><span class="sep">, </span>
-                    
-                    </span>
-                </span>
-            </span>
-            </li>                
-           
-    </ol>
-</div>     
+
+    <div class="col-md-6">
+        
+
     </div>
-    
+
 </div>
 
 </div>
+
     </main>
 
 

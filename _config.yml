@@ -2,13 +2,13 @@
 name: rence
 description: 'a collection of thoughts by Lawrence Wang'
 favicon: 'assets/images/favicon.ico'
-baseurl: 'https://blog.rencewang.com/'
+baseurl: '/hello/'
 
 include: ["_pages"]
 permalink: /:title/
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
@@ -24,13 +24,13 @@ defaults:
       layout: post
       author: sal
       avatar: /assets/images/avatar1.jpg
-      
+
   # all pages
   - scope:
       path: "_pages"
     values:
       layout: page
-      
+
 # Syntax
 markdown: kramdown
 highlighter: rouge
