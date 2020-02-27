@@ -1,0 +1,33 @@
+---
+title: "Reviews"
+layout: default
+permalink: "/reviews.html"
+---
+
+<div class="container">
+  <div class="row justify-content-center">
+      <div class="col-md-9">
+
+      {% for post in site.posts %}
+        {% if post.categories contains 'Personal' %}
+        {% else %}
+          {% unless post.next %}
+            <h4 class="archive-title font-weight-bold spanborder text-uppercase" id="{{ category[0] | downcase }}"><span>{{ post.date | date: '%Y' }}</span></h4>
+          {% else %}
+            {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+            {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+            {% if year != nyear %}
+              <h4 class="archive-title font-weight-bold spanborder text-uppercase" id="{{ category[0] | downcase }}"><span>{{ post.date | date: '%Y' }}</span></h4>
+            {% endif %}
+          {% endunless %}
+            {% include main-loop-card.html %}
+        {% endif %}
+	    {% endfor %}
+
+    </div>
+    <div class="col-md-3">
+        {% include sidebar-featured.html %}
+    </div>
+
+  </div>
+</div>
