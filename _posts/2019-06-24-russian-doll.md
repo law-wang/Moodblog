@@ -4,7 +4,7 @@ updated: 2019-06-24 23:43
 published: true
 category: Television
 tag: [Netflix, TV, Featured]
-image: https://occ-0-37-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTiMnRGpWK52qAcWKNEH3qIzu7BTijV0slCkPEoOZcZxgF9APNu6eX50QI08fjKS1RlpBlosArYyyt3CUPW0F13u1Yl8.jpg
+image: /assets/images/RD1.jpg
 ---
 
 You would think that after an entire school year of Nietzsche, Meursault, Godot, Kafka, Hemingway, and _Like Water for Chocolate_ in International Baccalaureate English would be enough absurdist discussion for a while, if not an entire lifetime. But _Russian Doll_, the extremely odd, extremely beautiful, and extremely thought-provoking delight, proved to be just that piece of existentialism I never knew I needed.
@@ -27,7 +27,7 @@ Nadia is not a completely good person. Sometimes she’s not kind enough, or pro
 
 Perhaps that’s her defense mechanism, of closing herself off from the world, thus eliminating the possibility of getting hurt and hurting other people. Or perhaps that’s who we all are — _incompletely good_ — as a result of our tendency to avoid pain and discomfort. But may I suggest to you that the experiences of bruising, the pain inherent to love, hate, and betrayal are the most real, human things, and that when we insulate ourselves from the world, we lose parts of what make us human in the first place.
 
-![Cover](/assets/images/russiandoll2.jpg)
+![Cover](/assets/images/RD2.jpg)
 
 ## It Is Not The End
 

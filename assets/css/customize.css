@@ -88,10 +88,55 @@ body {
     color: #737373 !important;
     cursor: help;
 }
+.sticky-title {
+    font-family: 'colus', serif;
+    color: #1a1a1a;
+}
+.sticky-excerpt{
+    width: 98%;
+    font-family: aktiv-grotesk, sans-serif;
+        font-style: normal;
+        font-size: 18px;
+}
+.sticky-button {
+    text-align: right;
+    color:#1a1a1a;
+    font-family: aktiv-grotesk-extended, serif;
+        font-style: normal;
+        text-transform: uppercase;
+        font-size: 40px;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    transition: all .3s linear;
+}
+.sticky-button:hover {
+    color: #f8f8f8 !important;
+    text-shadow: 0 0 70px #000;
+    cursor: help;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    transition: all .3s linear;
+}
+.footer-text {
+    font-family: orpheuspro, serif;
+    font-style: italic;
+    letter-spacing: 2px;
+}
+
 .text-muted a:hover {
     cursor: help;
+}
+.alright {
+    text-align: right;
 }
 
 .bg-main {
     background-color: #f8f8f8;
+}
+.bg-feature {
+    background-color: #cccccc;
 }

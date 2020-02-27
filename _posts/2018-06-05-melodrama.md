@@ -3,8 +3,8 @@ title: Melodrama&#58; The Glamour and Trauma Became Us
 updated: 2016-06-05 23:37
 published: true
 category: Music
-tag: [Lorde, Pop, Featured]
-image: http://www.thepacepress.org/site/wp-content/uploads/2017/06/melodrama-readdork.jpg
+tag: [Lorde, Pop, Featured, sticky]
+image: /assets/images/MEL.jpg
 ---
 
 If _Pure Heroine_ was about teenage Lorde’s idea of maturity, her imagination of what the adult world must be like, then her sophomore album is precisely the opposite. _Melodrama_ is cool— the toned quality materializes through the predominantly blue album art. And with this record, the brilliant facade of the adult world peels off layer by layer, until all that’s left is the delicate, jaded, melancholic core.

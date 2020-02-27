@@ -4,7 +4,7 @@ updated: 2018-04-04 14:16
 published: true
 category: Entertainment
 tag: [The Prestige, Nolan, Movie]
-image: https://static1.squarespace.com/static/5b39c0cb7c93273d7754f5cd/t/5be930fc0ebbe885c5ad1683/1542009132104/the_prestige.jpg
+image: /assets/images/the_prestige.jpg
 ---
 
 When people think of Christopher Nolan, the first movies that pop into mind are probably the likes of _Inception_ or _Interstellar_ or _The Dark Knight_, the high-grossing international sensations that constructed the fan base of his cinematic empire. But to me, the often overlooked 2006 classic, The Prestige, might be one of the most iconic pieces of Nolan’s story telling. 

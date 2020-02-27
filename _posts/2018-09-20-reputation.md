@@ -4,7 +4,7 @@ updated: 2018-09-20 12:46
 published: true
 category: Music
 tag: [Taylor Swift, Pop]
-image: https://static1.squarespace.com/static/55cb5414e4b0c0f75a3e7c4d/t/5a10f17771c10ba5531af53c/1511059918416/taylor-swift-bio1.jpg
+image: /assets/images/REP1.jpg
 ---
 
 _Reputation_ was the biggest album of 2018. There’s absolutely no doubt in that. It is also the best selling album of 2017. There’s no doubt in that either. But ever since its release, the media and others have criticized it as being Swift’s biggest flop in her career. But is it really? The simple answer is **_no_**. But if we dive deeper into the undercurrents, perhaps we would see the essence of the album more clearly.
