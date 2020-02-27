@@ -25,6 +25,18 @@
 <lastmod>2018-11-15T00:00:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/hello/18/</loc>
+<lastmod>2019-05-09T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/hello/last-day/</loc>
+<lastmod>2019-05-24T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/hello/graduation/</loc>
+<lastmod>2019-06-01T00:00:00-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/hello/russian-doll/</loc>
 <lastmod>2019-06-24T00:00:00-04:00</lastmod>
 </url>
@@ -50,5 +62,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/hello/tags.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/hello/page2/</loc>
 </url>
 </urlset>
