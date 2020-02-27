@@ -45,6 +45,11 @@ body {
     text-shadow: 0 0 15px #000;
     cursor: help;
 }
+@media (min-width: 992px) {
+  .navlist {
+    margin-left: auto;
+  }
+}
 
 .feature-heading {
     font-family: 'colus', franklin-gothic-urw, campaign, "Helvetica-Neue", sans-serif;
