@@ -8,7 +8,7 @@
 }
 
 @font-face {
-    font-family: 'gt-america-extended';
+    font-family: 'GT-america-extended';
     src: url(/assets/fonts/GT-America-Extended-Medium.otf);
     font-style: normal;
     font-weight: 500;
@@ -47,7 +47,7 @@ body {
 }
 
 .feature-heading {
-    font-family: 'gt-america-extended', 'colus', franklin-gothic-urw, campaign, "Helvetica-Neue", sans-serif;
+    font-family: 'colus', franklin-gothic-urw, campaign, "Helvetica-Neue", sans-serif;
         font-size: 18px;
         font-weight: 500;
         /* letter-spacing: 1px; */
@@ -131,6 +131,19 @@ body {
         font-size: 28px;
         font-weight: 700;
 }
+.aboutblock {
+    font-family: aktiv-grotesk-extended, sans-serif;
+}
+.aboutblock a {
+    color: #000 !important;
+    font-weight: 700;
+}
+.aboutblock a:hover {
+    cursor: help;
+}
+.article-post {
+    font-family: jaf-lapture, serif;
+}
 
 .text-muted a:hover {
     cursor: help;
@@ -144,4 +157,18 @@ body {
 }
 .bg-feature {
     background-color: #cccccc;
+}
+
+@media (max-width: 991.98px) {
+    .about {
+        display: none;
+    }
+    .article-post {
+        text-align: justify;
+    }
+}
+@media (max-width: 731px) {
+    .loop-card-image {
+        display: none;
+    }
 }
