@@ -1,0 +1,15 @@
+@import url("https://use.typekit.net/xbv3jvp.css");
+
+.subpage-heading {
+    
+}
+.category-title,
+.archive-title {
+    font-family: orpheuspro, whitman-display, serif;
+        font-style: italic;
+        font-size: 30px;
+        letter-spacing: 2px;
+}
+.archive-title {
+    font-size: 40px;
+}
