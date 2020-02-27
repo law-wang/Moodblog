@@ -125,6 +125,7 @@ body {
     font-family: orpheuspro, serif;
     font-style: italic;
     letter-spacing: 2px;
+    color: #000 !important;
 }
 .about-author-name {
     font-family: aktiv-grotesk-extended, sans-serif;
