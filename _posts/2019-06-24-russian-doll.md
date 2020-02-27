@@ -13,8 +13,6 @@ The sheer brilliance in the editing and cinematography is just the least of it: 
 
 The series is deeply absurd, with the protagonist running into death in the most unexpected, dark-humor ways — at times, it’s nearly the real life version of Dumb Ways To Die. It’s also deeply existential, with a beautifully-crafted dialogue on which parts of the numerous ways to die actually convey the essence of life. It’s a story about two equally unfortunate people finding their own meaning of existence, and somehow that’s incredibly grand and moving.
 
-![Cover](/assets/images/1.jpg)
-
 ## Nadia's Dilemma
 
 Time passes by linearly throughout the show, but the main character, Nadia, is stuck on the night of her birthday party — the recycled moments of her waking up in front of the bathroom mirror is a diametric symbol of death and rebirth. Nadia and the other protagonist, Alan, theorized that the seemingly eternal time-loop is a punishment for their mistakes during their childhood. Nadia wanted to leave her mother, and attributed her mother’s death to her own fault, after which she decided to push other people away to avoid any possibility of genuine connection that might end up hurting both parties.
@@ -27,7 +25,7 @@ Nadia is not a completely good person. Sometimes she’s not kind enough, or pro
 
 Perhaps that’s her defense mechanism, of closing herself off from the world, thus eliminating the possibility of getting hurt and hurting other people. Or perhaps that’s who we all are — _incompletely good_ — as a result of our tendency to avoid pain and discomfort. But may I suggest to you that the experiences of bruising, the pain inherent to love, hate, and betrayal are the most real, human things, and that when we insulate ourselves from the world, we lose parts of what make us human in the first place.
 
-![Cover](/assets/images/RD2.jpg)
+![Cover](https://raw.githubusercontent.com/law-wang/moodblog/master/assets/images/RD2.jpg)
 
 ## It Is Not The End
 
