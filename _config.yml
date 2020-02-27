@@ -2,7 +2,7 @@
 name: rence
 description: 'a collection of thoughts by Lawrence Wang'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/hello/'
+baseurl: 'https://blog.rencewang.com'
 
 include: ["_pages"]
 permalink: /:title/
