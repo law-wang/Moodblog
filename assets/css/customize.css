@@ -88,6 +88,16 @@ body {
     color: #737373 !important;
     cursor: help;
 }
+@media (min-width: 767px) {
+  .loop-card-fixed-height {
+    min-height: 220px;
+  }
+}
+@media (min-width: 992px) {
+  .navbar-justify-content-between {
+    justify-content: space-between !important;
+  }
+}
 .sticky-title {
     font-family: 'colus', serif;
     color: #1a1a1a;
