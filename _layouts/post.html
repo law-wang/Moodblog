@@ -8,16 +8,16 @@ layout: default
 			<div class="row {% if page.image %} justify-content-between {% else %} justify-content-center {% endif %}">
 				<div class="{% if page.image %} col-md-6 {% else %} col-md-8 {% endif %} pr-0 pr-md-4 pt-4 pb-4 align-self-center">
 					<p class="alright catblock text-uppercase font-weight-bold">
-                        <span class="catlist">
-						{% for category in page.categories %}
-                          <a class="sscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category | downcase }}</a><span class="sep">, </span>
-                        {% endfor %}
-                        </span>
+            <span class="catlist">
+							{% for category in page.categories %}
+                <a class="sscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category | downcase }}</a><span class="sep">, </span>
+              {% endfor %}
+            </span>
 					</p>
 					<h1 class="alright display-4 mb-4 article-headline">{{ page.title }}</h1>
 					<div class="alright">
-						<small> 
-                            <span class="text-muted font-weight-bold d-block mt-0">{{ page.date | date: '%b %d, %Y' }}</span>
+						<small>
+              <span class="text-muted font-weight-bold d-block mt-0">{{ page.date | date: '%b %d, %Y' }}</span>
 						</small>
 					</div>
 				</div>
@@ -35,7 +35,7 @@ layout: default
 <div class="container-lg pt-4 pb-4">
 	<div class="row justify-content-center">
 
-        <!-- ABOUT BLOCK -->
+    <!-- ABOUT BLOCK -->
 		<div class="about col-lg-2 pr-4 mb-4 col-md-12">
 			<div class="alright sticky-top sticky-top-offset text-center">
 				<div class="aboutblock">
@@ -45,18 +45,16 @@ layout: default
 				</div>
 			</div>
 		</div>
-        
+
 		<div class="col-md-12 col-lg-8">
-            <!-- Article -->
-			<article class="article-post">                
-			{{ content }}                
+      <!-- Article -->
+			<article class="article-post">
+			{{ content }}
 			</article>
 		</div>
-        
-        
+
 	</div>
 </div>
-
 
 <!-- Aletbar Prev/Next -->
 <div class="alertbar">
