@@ -1,16 +1,16 @@
 <div class="sticky-top sticky-top-offset">
-    <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>  
+    <h4 class="featured-title font-weight-bold spanborder"><span>Featured</span></h4>  
     <ol class="list-featured">				
         {% for post in site.tags.Featured %}                
             <li class="mb-4">
             <span>
                 <h6 class="font-weight-bold">
-                    <a href="{{site.baseurl}}{{ post.url }}" class="text-dark">{{ post.title }}</a>
+                    <a href="{{site.baseurl}}{{ post.url }}" class="feature-heading">{{ post.title }}</a>
                 </h6>
-                <span class="d-block text-muted">
+                <span class="catblock d-block">
                     In <span class="catlist">
                     {% for category in post.categories %}
-                    <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                    <a class="text-capitalize smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
                     {% endfor %}
                     </span>
                 </span>

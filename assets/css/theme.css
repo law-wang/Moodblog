@@ -30,12 +30,6 @@ a,a:hover {
 	transition:all .2s;
 	text-decoration:none;
 }
-a {
-	color:#03a87c;
-}
-a.text-dark:hover {
-	color:#03a87c !important;
-}
 .c-pointer:hover {
 	cursor:pointer;
 }
@@ -629,9 +623,8 @@ ol.list-featured li:before {
     font-weight: bold;
     font-size: 2rem;
     margin-right: 0.5rem;
-    font-family: Arial;
     line-height: 1;
-    opacity: .1;
+    opacity: .4;
 }
 .catlist .sep:last-child {
 	display:none;

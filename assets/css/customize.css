@@ -1,15 +1,97 @@
 @import url("https://use.typekit.net/xbv3jvp.css");
 
-.subpage-heading {
-    
+@font-face {
+    font-family: 'colus';
+    src: url(/assets/fonts/Colus-Regular.ttf);
+    font-style: normal;
+    font-weight: 300;
 }
+
+@font-face {
+    font-family: 'gt-america-extended';
+    src: url(/assets/fonts/GT-America-Extended-Medium.otf);
+    font-style: normal;
+    font-weight: 500;
+}
+
+body {
+    background-color: #f8f8f8;
+}
+.featured-title,
 .category-title,
 .archive-title {
-    font-family: orpheuspro, whitman-display, serif;
+    font-family: orpheuspro, serif;
         font-style: italic;
-        font-size: 30px;
+        font-size: 40px;
         letter-spacing: 2px;
 }
-.archive-title {
-    font-size: 40px;
+
+.glowlink {
+    font-family: aktiv-grotesk-extended, sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.glowlink a {
+    color: #595959;
+    text-decoration: none;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    transition: all .3s linear;
+}
+.glowlink a:hover {
+    color: #fff !important;
+    text-shadow: 0 0 15px #000;
+    cursor: help;
+}
+
+.feature-heading {
+    font-family: 'gt-america-extended', 'colus', franklin-gothic-urw, campaign, "Helvetica-Neue", sans-serif;
+        font-size: 18px;
+        font-weight: 500;
+        /* letter-spacing: 1px; */
+        /* text-transform: uppercase; */
+        text-align: justify;
+    color: #000;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    transition: all .3s linear;
+}
+.feature-heading:hover {
+    color: #737373 !important;
+    cursor: help;
+}
+.catblock {
+    font-family: aktiv-grotesk-extended, sans-serif;
+    color: #000 !important;
+}
+.catblock a {
+    color: #000;
+}
+.catblock a:hover {
+    color: #000 !important;
+    cursor: help;
+}
+.loop-card-title a {
+    font-family: 'colus', serif;
+    color: #000;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    transition: all .3s linear;
+}
+.loop-card-title a:hover {
+    color: #737373 !important;
+    cursor: help;
+}
+.text-muted a:hover {
+    cursor: help;
+}
+
+.bg-main {
+    background-color: #f8f8f8;
 }
