@@ -95,7 +95,6 @@ body {
 }
 @media (min-width: 767px) {
   .loop-card-fixed-height {
-    min-height: 220px;
   }
 }
 @media (min-width: 992px) {
