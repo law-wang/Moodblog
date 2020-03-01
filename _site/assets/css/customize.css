@@ -45,6 +45,11 @@ body {
     text-shadow: 0 0 15px #000;
     cursor: help;
 }
+@media (min-width: 992px) {
+  .navlist {
+    margin-left: auto;
+  }
+}
 
 .feature-heading {
     font-family: 'colus', franklin-gothic-urw, campaign, "Helvetica-Neue", sans-serif;
@@ -88,6 +93,15 @@ body {
     color: #737373 !important;
     cursor: help;
 }
+@media (min-width: 767px) {
+  .loop-card-fixed-height {
+  }
+}
+@media (min-width: 992px) {
+  .navbar-justify-content-between {
+    justify-content: space-between !important;
+  }
+}
 .sticky-title {
     font-family: 'colus', serif;
     color: #1a1a1a;
@@ -125,11 +139,12 @@ body {
     font-family: orpheuspro, serif;
     font-style: italic;
     letter-spacing: 2px;
+    color: #000 !important;
 }
 .about-author-name {
     font-family: aktiv-grotesk-extended, sans-serif;
-        font-size: 28px;
-        font-weight: 700;
+      font-size: 28px;
+      font-weight: 700;
 }
 .aboutblock {
     font-family: aktiv-grotesk-extended, sans-serif;

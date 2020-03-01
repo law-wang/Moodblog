@@ -19,7 +19,7 @@ Liability is the turning point, the moment of self-reflective weakness. In the d
 
 Of course, love and breakups are quintessential to any grow up story. The remarkable romanticism of the album is apparent in The Louvre through the literary devices: the personification of summer, the days and nights that are “perfumed” with obsession present the beauty of an endearing love. Yet as suggested by the uneasy beats of the track, that beauty, so alarmingly coated in sacrifice, eventually will fall apart. With the somber recount of the aftermath of the break up in Hard Feelings, we are introduced to the winter, the death of the rushing feelings that were once so strong, so domineering, so relentless. Ultimately, as comfortable as being underneath summer’s tongue was, there comes a day when we all have to let go of that endless summer afternoon.
 
-## From the End of One to the Start of Another 
+## From the End of One to the Start of Another
 
 The theme is then reinforced through Sober II (Melodrama) and Writer In The Dark. The love ends, romance is succeeded by melodrama. In the blinding fumes of accusations, we realize that we always knew we would end up here; it’s only in the psycho-high kind of self-indulgence did we forget that:
 > They'll talk about us, all the lovers  
@@ -37,9 +37,8 @@ So in the grand finale, we dump it all away in Perfect Places. In a sense, this 
 
 ## Melodrama and Us
 
-The album is titled melodrama, romance love affairs. Yet the album is not simply about breaking up, or even love. It seems closer to a diary to oneself, about how to manage the solitude, how to understand the ever-so complex notion of self— all of that, wrapped in strong sonic and lyrical cohesion. This is a part of why I was absolutely dumbfounded when _Melodrama_ was snubbed of its album of the year. The journey Lorde presents shows the audience a meditation on the loneliness of an ambitious pop drama queen. The intimate vocals, lyrics, productions here are all Grammy’s worthy— yet all of that paled in face of the 60th Annual Grammy Awards’ pursuit of “equality” and “representation.” 
+The album is titled melodrama, romance love affairs. Yet the album is not simply about breaking up, or even love. It seems closer to a diary to oneself, about how to manage the solitude, how to understand the ever-so complex notion of self— all of that, wrapped in strong sonic and lyrical cohesion. This is a part of why I was absolutely dumbfounded when _Melodrama_ was snubbed of its album of the year. The journey Lorde presents shows the audience a meditation on the loneliness of an ambitious pop drama queen. The intimate vocals, lyrics, productions here are all Grammy’s worthy— yet all of that paled in face of the 60th Annual Grammy Awards’ pursuit of “equality” and “representation.”
 
 Above all, the fragility of breakups, the confusion of growing up, the depravity of carousing, the loneliness of sobriety, the fiery emotions of adulthood— _Melodrama_ contains all of these. And through editing life into one endless party, the good, the bad, the glamour, the trauma all invariably arrive at who we are.
 
 Lorde’s idea of youth is acute, indulging, complete and unconditional. So many melodrama will end up being supercuts. So many hard feelings will lead to exclamation of what the fuck are perfect places. Perhaps this youth is imperfect, but its stubborn, tenacious, yet sinister vitality is precious and impossible to compound.
-
