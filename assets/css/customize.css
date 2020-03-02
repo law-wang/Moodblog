@@ -178,9 +178,9 @@ body {
     .about {
         display: none;
     }
-    .article-post {
+    /* .article-post {
         text-align: justify;
-    }
+    } */
 }
 @media (max-width: 731px) {
     .loop-card-image {
