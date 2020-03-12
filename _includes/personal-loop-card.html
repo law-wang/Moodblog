@@ -4,7 +4,7 @@
 		<a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
 		</h2>
 		<p class="mb-1 excerpt">
-		   {{ post.excerpt  | strip_html | strip_newlines | truncate: 300}}
+		   {{ post.excerpt  | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip | truncate: 300}}
 		</p>
 		<small class="catblock d-block text-muted">
 			In <span class="catlist">
