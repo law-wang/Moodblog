@@ -172,6 +172,8 @@ body {
 }
 .article-post {
     font-family: jaf-lapture, 'HanyiSentyTANG', serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .text-muted a:hover {
