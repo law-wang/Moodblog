@@ -8,6 +8,13 @@
 }
 
 @font-face {
+    font-family: 'SentyWEN2017';
+    src: url(/assets/fonts/SentyWEN2017.ttf);
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
     font-family: 'GT-america-extended';
     src: url(/assets/fonts/GT-America-Extended-Medium.otf);
     font-style: normal;
@@ -157,7 +164,7 @@ body {
     cursor: help;
 }
 .article-post {
-    font-family: jaf-lapture, serif;
+    font-family: jaf-lapture, 'SentyWEN2017', serif;
 }
 
 .text-muted a:hover {
