@@ -1,5 +1,5 @@
 ---
-title: Crazy Rich Asians&#58; Socioeconomic Mismatch, Cultural Identity, and The Farewell
+title: Crazy Rich Asians&#58; Socioeconomic Mismatch and The Farewell
 updated: 2019-08-03 20:08
 published: true
 category: Movie
