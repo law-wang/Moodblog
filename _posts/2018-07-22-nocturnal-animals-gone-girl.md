@@ -9,7 +9,7 @@ image: /assets/images/Nocturnal.jpg
 
 _Gone Girl_ and _Nocturnal Animals_ — released two years apart, one by the legendary David Fincher, the other by the fashion mongol Tom Ford — are strikingly similar in many ways. Both contain wonderful shots, such as when Ben Affleck’s fingers run through Rosamund Pike’s hair and when Amy Adams stands in front of the mirror in her green dress as A Table For Two plays in the background. _Gone Girl_ describes the aftermath of a girl losing the perfect guy she was promised, whereas _Nocturnal Animals_ describes that of a guy losing his wife and child. Now, maybe Tom Ford’s use of color and treatment of silence makes his work the more artsy of the two, but we should all be able to agree that the two share a common discussion of love and revenge.  
 
-##Two Perspectives
+## Two Perspectives
 
 The two films are conducted through different characters. In _Gone Girl_, Nick is introduced first, and the mystery about his missing wife, Amy, unfolds from his perspective; in _Nocturnal Animals_, Susan reads the manuscripts that her ex-husband, Edward, sent her and recounts her story. The differences in perspectives give rise to different allegiances and sympathies for the audience.
 
@@ -17,7 +17,7 @@ Nick and Amy are inmates trapped in the prison of marriage, which sucks dry thei
 
 In Edward’s manuscripts, Tony Hasting, the autobiographical protagonist, conducts an immaculate revenge. Tony suffers and plots and kills because for him, love and hate are disparate emotions directed at different people. He loves his wife and daughter, and he has to kill Ray Marcus to avenge his wife and child. In Susan and Edward’s marriage, however, it’s not so clear: Susan is Edward’s wife _and_ archnemesis: she is both the love of his life and the one who brutally killed the love of his life. In fact, the Susan that Edward loves had been long dead. She died once in the hands of Ray Marcus. She died another time when she told Edward: “I am a realist. I am happy.”
 
-##Role of Society
+## Role of Society
 
 The story of _Gone Girl_ starts as economic pressures breaks the perfect pretense, as Nick becomes dull and tired of playing the ideal husband, and ends as social pressure reforges a broken marriage, as Nick chooses to give in and Amy gets what she wants. Amy has a dream, a style of life she would do anything to defend, whether it be “being raped” or “being murdered.”
 
@@ -25,7 +25,7 @@ In _Nocturnal Animals_, the key conflict can be boiled down to the socioeconomic
 
 As such, the social construct is a common factor in both tragedies. One shatters the American Dream with its nuclear-family-happiness and exposes the hypocrisy of middle class elites who indulge in intricate illusions out of boredom and encourage media carnivals after every borderline societal crisis. The other one confirms the doom of socioeconomic mismatch even in a society where the effects of such are said to be negligible.
 
-##No One Comes Out Clean
+## No One Comes Out Clean
 
 When Prince Charming is no longer and Cool Girl becomes Gone Girl, the two have to collect their wreck of a marriage and carry on. Cool Girl does not care about the delicateness of a marriage, she acts with minimal considerations of the circumstances because she knows she’s smarter than the rest of them. She cried, demanded, threatened, provoked. She taints herself with blood. She uses anyone and everyone she could. By doing so, she ends up securing the illusory love and marriage.
 
