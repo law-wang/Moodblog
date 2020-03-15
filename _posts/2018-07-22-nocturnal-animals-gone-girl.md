@@ -17,6 +17,8 @@ Nick and Amy are inmates trapped in the prison of marriage, which sucks dry thei
 
 In Edward’s manuscripts, Tony Hasting, the autobiographical protagonist, conducts an immaculate revenge. Tony suffers and plots and kills because for him, love and hate are disparate emotions directed at different people. He loves his wife and daughter, and he has to kill Ray Marcus to avenge his wife and child. In Susan and Edward’s marriage, however, it’s not so clear: Susan is Edward’s wife _and_ archnemesis: she is both the love of his life and the one who brutally killed the love of his life. In fact, the Susan that Edward loves had been long dead. She died once in the hands of Ray Marcus. She died another time when she told Edward: “I am a realist. I am happy.”
 
+![Cover](https://cdn.mos.cms.futurecdn.net/CRbRhtoz5tR3fFR4o3ExxX.jpg)
+
 ## Role of Society
 
 The story of _Gone Girl_ starts as economic pressures breaks the perfect pretense, as Nick becomes dull and tired of playing the ideal husband, and ends as social pressure reforges a broken marriage, as Nick chooses to give in and Amy gets what she wants. Amy has a dream, a style of life she would do anything to defend, whether it be “being raped” or “being murdered.”
@@ -24,6 +26,8 @@ The story of _Gone Girl_ starts as economic pressures breaks the perfect pretens
 In _Nocturnal Animals_, the key conflict can be boiled down to the socioeconomic disparities between Susan and Edward. Susan comes from a wealthy background, and although a liberal education has given her understanding for different classes and appreciation of values beyond material, it has not changed her mentality that favors basic economic security. She could not give up the comforts that she had grown accustomed to, and when Edward fails to provide that, Susan becomes who she dreads the most — her mother.
 
 As such, the social construct is a common factor in both tragedies. One shatters the American Dream with its nuclear-family-happiness and exposes the hypocrisy of middle class elites who indulge in intricate illusions out of boredom and encourage media carnivals after every borderline societal crisis. The other one confirms the doom of socioeconomic mismatch even in a society where the effects of such are said to be negligible.
+
+![Cover](https://badgerherald.com/wordpress/wp-content/uploads/2014/10/gone-girl-01_1485x612.jpg)
 
 ## No One Comes Out Clean
 
