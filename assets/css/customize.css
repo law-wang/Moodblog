@@ -66,10 +66,10 @@ body {
 }
 
 .feature-heading {
-    font-family: 'colus', franklin-gothic-urw, campaign, "Helvetica-Neue", sans-serif;
+    font-family: campaign, "Helvetica-Neue", sans-serif;
         font-size: 18px;
         font-weight: 500;
-        /* letter-spacing: 1px; */
+        letter-spacing: 0.5px;
         /* text-transform: uppercase; */
         text-align: justify;
     color: #000;
