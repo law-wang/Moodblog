@@ -652,9 +652,9 @@ article {
     font-family:Lora;
 }
 .article-headline {
-    font-family: linotype-sabon, Times, "Times New Roman", serif;
+    font-family: aktiv-grotesk-extended, Times, "Times New Roman", serif;
     font-size: 3.8rem;
-    font-weight: 500;
+    font-weight: 700;
     line-height: 1.15;
     color: #222222;
 }
