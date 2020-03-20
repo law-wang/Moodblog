@@ -3,7 +3,7 @@ title: Crazy Rich Asians&#58; Socioeconomic Mismatch and The Farewell
 updated: 2019-08-03 20:08
 published: true
 category: Movie
-tag: [Tom Ford, David Fincher, Featured]
+tag: []
 image: /assets/images/asians.jpg
 ---
 
