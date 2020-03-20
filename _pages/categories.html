@@ -6,7 +6,7 @@ permalink: "/categories"
 
 <div class="container">
     <div class="row justify-content-center">
-        <div class="col-md-9">
+        <div class="col-md-8">
 
           {% for category in site.categories %}
             <h4 class="category-title font-weight-bold spanborder text-uppercase" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4>
@@ -25,7 +25,7 @@ permalink: "/categories"
           {% endfor %}
         </div>
 
-        <div class="col-md-3">
+        <div class="col-md-4">
         {% include sidebar-featured.html %}
         </div>
     </div>

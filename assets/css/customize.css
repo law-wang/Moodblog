@@ -66,11 +66,11 @@ body {
 }
 
 .feature-heading {
-    font-family: 'colus', franklin-gothic-urw, campaign, "Helvetica-Neue", sans-serif;
+    font-family: campaign, "Helvetica-Neue", sans-serif;
         font-size: 18px;
         font-weight: 500;
-        /* letter-spacing: 1px; */
-        /* text-transform: uppercase; */
+        letter-spacing: 0.5px;
+        text-transform: uppercase;
         text-align: justify;
     color: #000;
     -webkit-transition: all .3s linear;
@@ -95,7 +95,7 @@ body {
     cursor: help;
 }
 .loop-card-title a {
-    font-family: 'colus', serif;
+    font-family: aktiv-grotesk-extended, sans-serif;
     color: #000;
     -webkit-transition: all .3s linear;
     -moz-transition: all .3s linear;
@@ -117,12 +117,12 @@ body {
   }
 }
 .sticky-title {
-    font-family: 'colus', serif;
+    font-family: aktiv-grotesk-extended, sans-serif;
     color: #1a1a1a;
 }
 .sticky-excerpt{
     width: 98%;
-    font-family: aktiv-grotesk, sans-serif;
+    font-family: jaf-lapture, serif;
         font-style: normal;
         font-size: 18px;
 }
@@ -133,6 +133,7 @@ body {
         font-style: normal;
         text-transform: uppercase;
         font-size: 40px;
+        font-weight: 700;
     -webkit-transition: all .3s linear;
     -moz-transition: all .3s linear;
     -ms-transition: all .3s linear;
@@ -171,9 +172,12 @@ body {
     cursor: help;
 }
 .article-post {
-    font-family: jaf-lapture, 'HanyiSentyTANG', serif;
+    font-family: jaf-lapture, aktiv-grotesk, serif;
     font-weight: 400;
     font-style: normal;
+}
+.excerpt {
+    font-family: jaf-lapture, serif;
 }
 
 .text-muted a:hover {
